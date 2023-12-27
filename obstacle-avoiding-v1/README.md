@@ -35,7 +35,7 @@ Connect the components as follows:
 - Connect the battery to the shield and the shield to the Arduino board.
 
 ## Arduino Code
-The software aspect involves programming the Arduino. You can use the provided Arduino code as a reference or create your own. The code is available in the [Obstacle_Avoiding.ino](./Obstacle_Avoiding.ino) file.
+The software aspect involves programming the Arduino. You can use the provided Arduino code as a reference or create your own. The code is available in the [Obstacle_Avoiding.ino](./obstacle-avoiding-v1.ino) file.
 
 ## Run
 Congratulations! You've successfully built your obstacle-avoiding robot. Now, it's time to experiment with the code and enjoy playing with your new robot. Have fun exploring the possibilities!
